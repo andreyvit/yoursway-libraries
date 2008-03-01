@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Google Collections
+Bundle-SymbolicName: com.google.collections
+Bundle-Version: 1.0.0.20011022
+Bundle-ClassPath: google-collect-snapshot-20071022.jar
+Bundle-Vendor: Google
+Export-Package: com.google.common.base,
+ com.google.common.collect
