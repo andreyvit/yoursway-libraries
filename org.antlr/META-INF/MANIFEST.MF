@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ANTLR
+Bundle-SymbolicName: org.antlr
+Bundle-Version: 3.0.1
+Bundle-ClassPath: antlr-3.0.1.jar
+Export-Package: org.antlr,
+ org.antlr.analysis,
+ org.antlr.codegen,
+ org.antlr.misc,
+ org.antlr.runtime,
+ org.antlr.runtime.debug,
+ org.antlr.runtime.misc,
+ org.antlr.runtime.tree,
+ org.antlr.tool
