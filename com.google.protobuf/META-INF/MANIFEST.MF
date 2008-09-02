@@ -3,6 +3,5 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Protobuf
 Bundle-SymbolicName: com.google.protobuf
 Bundle-Version: 1.0.0
-Bundle-ClassPath: protobuf.jar,
- protobuf-java-2.0.0beta.jar
+Bundle-ClassPath: protobuf-java-2.0.0beta.jar
 Export-Package: com.google.protobuf
