@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: ANTLR
 Bundle-SymbolicName: org.antlr
-Bundle-Version: 3.0.1
+Bundle-Version: 3.0.1.qualifier
 Bundle-ClassPath: antlr-3.0.1.jar
 Export-Package: org.antlr,
  org.antlr.analysis,
