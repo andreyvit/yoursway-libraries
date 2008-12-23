@@ -59,3 +59,4 @@ Export-Package: org.antlr;uses:="org.antlr.tool",
    org.antlr.runtime,
    org.antlr.analysis,
    antlr"
+Bundle-Vendor: antlr.org
